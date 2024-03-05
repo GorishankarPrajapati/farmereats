@@ -1,7 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:software_lab/screens.dart/splash_screen.dart';
 
 String? deviceToken;
@@ -21,14 +20,16 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return ScreenUtilInit(
-      designSize: Size(360, 690), // Specify your design size
-      builder: (BuildContext context, Widget? child) {
-        return MaterialApp(
-          debugShowCheckedModeBanner: false,
-          home: const SplashScreen(),
-        );
-      },
+    return
+
+        // ScreenUtilInit(
+        // designSize: Size(360, 690), // Specify your design size
+        // builder: (BuildContext context, Widget? child) {
+        MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: const SplashScreen(),
+      //);
+      //},
     );
   }
 }
