@@ -21,10 +21,12 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return ScreenUtilInit(
-      designSize: Size(360, 690), // Specify your design size
-      builder: (BuildContext context, Widget? child) {
-        return MaterialApp(
+    return
+      //ScreenUtilInit(
+     // designSize: Size(360, 690), // Specify your design size
+    //  builder: (BuildContext context, Widget? child) {
+        return 
+      MaterialApp(
           debugShowCheckedModeBanner: false,
           home: const SplashScreen(),
         );
