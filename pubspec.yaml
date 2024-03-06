@@ -44,9 +44,9 @@ dependencies:
   country_state_picker: ^0.0.5
   firebase_core: ^2.24.2
   form_validator: ^2.1.1
-  #firebase_messaging: ^14.7.10
+  firebase_messaging: ^14.7.10
   #screen_utils: ^0.0.1
-  flutter_screenutil: ^5.7.0
+  #flutter_screenutil: ^5.7.0
 
   flutter_screenutil: ^5.7.0
   google_sign_in: ^6.1.6

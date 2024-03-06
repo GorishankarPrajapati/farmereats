@@ -134,6 +134,10 @@ flutter_plugin_android_lifecycle
 2.19
 file:///C:/Users/LENOVO/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.17/
 file:///C:/Users/LENOVO/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.17/lib/
+flutter_screenutil
+2.12
+file:///C:/Users/LENOVO/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_screenutil-5.7.0/
+file:///C:/Users/LENOVO/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_screenutil-5.7.0/lib/
 flutter_secure_storage
 2.12
 file:///C:/Users/LENOVO/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_secure_storage-8.1.0/
@@ -254,10 +258,6 @@ quiver
 2.17
 file:///C:/Users/LENOVO/AppData/Local/Pub/Cache/hosted/pub.dev/quiver-3.2.1/
 file:///C:/Users/LENOVO/AppData/Local/Pub/Cache/hosted/pub.dev/quiver-3.2.1/lib/
-screen_utils
-2.1
-file:///C:/Users/LENOVO/AppData/Local/Pub/Cache/hosted/pub.dev/screen_utils-0.0.1/
-file:///C:/Users/LENOVO/AppData/Local/Pub/Cache/hosted/pub.dev/screen_utils-0.0.1/lib/
 servicestack
 2.12
 file:///C:/Users/LENOVO/AppData/Local/Pub/Cache/hosted/pub.dev/servicestack-2.0.3/
