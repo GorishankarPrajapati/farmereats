@@ -152,24 +152,6 @@
       "languageVersion": "2.18"
     },
     {
-      "name": "firebase_messaging",
-      "rootUri": "file:///C:/Users/LENOVO/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_messaging-14.7.10",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
-      "name": "firebase_messaging_platform_interface",
-      "rootUri": "file:///C:/Users/LENOVO/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_messaging_platform_interface-4.5.18",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
-      "name": "firebase_messaging_web",
-      "rootUri": "file:///C:/Users/LENOVO/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_messaging_web-3.5.18",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
       "name": "flutter",
       "rootUri": "file:///C:/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -506,7 +488,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2024-03-06T12:23:31.605451Z",
+  "generated": "2024-03-06T12:45:30.047618Z",
   "generator": "pub",
   "generatorVersion": "2.19.4"
 }
