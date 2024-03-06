@@ -1,0 +1,4 @@
+#Sun Feb 25 23:22:28 IST 2024
+base.0=C\:\\Users\\LENOVO\\flutter_bloc\\software_lab\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

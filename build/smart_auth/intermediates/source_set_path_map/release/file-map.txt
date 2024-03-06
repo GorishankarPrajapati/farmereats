@@ -1,0 +1,15 @@
+fman.ge.smart_auth-jetified-window-java-1.0.0-beta04-0 C:\Users\LENOVO\.gradle\caches\transforms-3\27babf2c134966afaa1388c75fca8b13\transformed\jetified-window-java-1.0.0-beta04\res
+fman.ge.smart_auth-jetified-play-services-basement-18.1.0-1 C:\Users\LENOVO\.gradle\caches\transforms-3\29a4590fca6d10c18762e0b131e7bbf0\transformed\jetified-play-services-basement-18.1.0\res
+fman.ge.smart_auth-jetified-annotation-experimental-1.1.0-2 C:\Users\LENOVO\.gradle\caches\transforms-3\2c1ad748c48d0f83f443f9c81af450f4\transformed\jetified-annotation-experimental-1.1.0\res
+fman.ge.smart_auth-jetified-window-1.0.0-beta04-3 C:\Users\LENOVO\.gradle\caches\transforms-3\51549e7b96512cb39dc09eb76c177050\transformed\jetified-window-1.0.0-beta04\res
+fman.ge.smart_auth-core-1.6.0-4 C:\Users\LENOVO\.gradle\caches\transforms-3\5972a494867966c51af06fff81a0cdc0\transformed\core-1.6.0\res
+fman.ge.smart_auth-jetified-play-services-base-18.0.1-5 C:\Users\LENOVO\.gradle\caches\transforms-3\9a76abe194cf819aca19fa3b9bb7a798\transformed\jetified-play-services-base-18.0.1\res
+fman.ge.smart_auth-jetified-play-services-auth-20.4.0-6 C:\Users\LENOVO\.gradle\caches\transforms-3\e9c1e4cd8f34b8c6665bf21193664627\transformed\jetified-play-services-auth-20.4.0\res
+fman.ge.smart_auth-main-7 C:\Users\LENOVO\AppData\Local\Pub\Cache\hosted\pub.dev\smart_auth-1.1.1\android\src\main\res
+fman.ge.smart_auth-release-8 C:\Users\LENOVO\AppData\Local\Pub\Cache\hosted\pub.dev\smart_auth-1.1.1\android\src\release\res
+fman.ge.smart_auth-pngs-9 C:\Users\LENOVO\flutter_bloc\software_lab\build\smart_auth\generated\res\pngs\release
+fman.ge.smart_auth-resValues-10 C:\Users\LENOVO\flutter_bloc\software_lab\build\smart_auth\generated\res\resValues\release
+fman.ge.smart_auth-rs-11 C:\Users\LENOVO\flutter_bloc\software_lab\build\smart_auth\generated\res\rs\release
+fman.ge.smart_auth-mergeReleaseResources-12 C:\Users\LENOVO\flutter_bloc\software_lab\build\smart_auth\intermediates\incremental\release\mergeReleaseResources\merged.dir
+fman.ge.smart_auth-mergeReleaseResources-13 C:\Users\LENOVO\flutter_bloc\software_lab\build\smart_auth\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+fman.ge.smart_auth-merged_res-14 C:\Users\LENOVO\flutter_bloc\software_lab\build\smart_auth\intermediates\merged_res\release

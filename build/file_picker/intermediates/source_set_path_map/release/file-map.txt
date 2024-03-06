@@ -1,0 +1,13 @@
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-java-1.0.0-beta04-0 C:\Users\LENOVO\.gradle\caches\transforms-3\27babf2c134966afaa1388c75fca8b13\transformed\jetified-window-java-1.0.0-beta04\res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-annotation-experimental-1.1.0-1 C:\Users\LENOVO\.gradle\caches\transforms-3\2c1ad748c48d0f83f443f9c81af450f4\transformed\jetified-annotation-experimental-1.1.0\res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-1.0.0-beta04-2 C:\Users\LENOVO\.gradle\caches\transforms-3\51549e7b96512cb39dc09eb76c177050\transformed\jetified-window-1.0.0-beta04\res
+com.mr.flutter.plugin.filepicker.file_picker-core-1.6.0-3 C:\Users\LENOVO\.gradle\caches\transforms-3\5972a494867966c51af06fff81a0cdc0\transformed\core-1.6.0\res
+com.mr.flutter.plugin.filepicker.file_picker-main-4 C:\Users\LENOVO\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.3.1\android\src\main\res
+com.mr.flutter.plugin.filepicker.file_picker-release-5 C:\Users\LENOVO\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.3.1\android\src\release\res
+com.mr.flutter.plugin.filepicker.file_picker-pngs-6 C:\Users\LENOVO\flutter_bloc\software_lab\build\file_picker\generated\res\pngs\release
+com.mr.flutter.plugin.filepicker.file_picker-resValues-7 C:\Users\LENOVO\flutter_bloc\software_lab\build\file_picker\generated\res\resValues\release
+com.mr.flutter.plugin.filepicker.file_picker-rs-8 C:\Users\LENOVO\flutter_bloc\software_lab\build\file_picker\generated\res\rs\release
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-9 C:\Users\LENOVO\flutter_bloc\software_lab\build\file_picker\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-10 C:\Users\LENOVO\flutter_bloc\software_lab\build\file_picker\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.mr.flutter.plugin.filepicker.file_picker-merged_res-11 C:\Users\LENOVO\flutter_bloc\software_lab\build\file_picker\intermediates\merged_res\release
+com.mr.flutter.plugin.filepicker.file_picker-packaged_res-12 C:\Users\LENOVO\flutter_bloc\software_lab\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
