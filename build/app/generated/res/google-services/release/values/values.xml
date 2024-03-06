@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="gcm_defaultSenderId" translatable="false">636276704043</string>
-    <string name="google_api_key" translatable="false">AIzaSyDcfl9RwHrZr-YoYaox9Gchk8r9_boBT4A</string>
-    <string name="google_app_id" translatable="false">1:636276704043:android:ab42d24aa578ea0c6cbb6e</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDcfl9RwHrZr-YoYaox9Gchk8r9_boBT4A</string>
-    <string name="google_storage_bucket" translatable="false">farmereats-97071.appspot.com</string>
-    <string name="project_id" translatable="false">farmereats-97071</string>
-</resources>
